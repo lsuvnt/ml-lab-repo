@@ -1,0 +1,7 @@
+The dataset loaded in the notebook is a customer behavior dataset (.csv file) with 350 records.
+Each record contains the age, annual income, spending score, monthly visits, gender,
+and preferred product of each customer for a specific store.
+For the machine learning problem, we will work with a classification problem where our target
+variable is the preferred product, and we will use the rest of the columns as inputs.
+This is intended to predict which products a customer would be most interested in purchasing based
+on their demographic, which can help in providing a more personalized shopping experience for users.
